@@ -38,11 +38,7 @@ The `call_tool` async function in `app.py` is designed to handle the invocation 
 
 Once the application is running, you can interact with the chatbot through the Chainlit interface. The chatbot will use the OpenAI model to understand your requests and, when necessary, call the `get_current_weather` function to provide you with the weather information.
 
-![Rendering](./streaming-functions.gif)
-
 For detailed instructions and more information, refer to the [main readme](/README.md).
 
 OpenAI functions enable GPT to use functions you defined in your code.
 To run the example, follow the instructions of the [main readme](/README.md).
-
-![Rendering](./streaming-functions.gif)
