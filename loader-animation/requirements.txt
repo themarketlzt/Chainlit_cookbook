@@ -1,2 +1,0 @@
-chainlit>=1.6.0  # Framework
-# asyncio already included in Python 3.7+ 
