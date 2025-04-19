@@ -15,7 +15,5 @@ This Python script is designed to handle concurrent tasks and streaming response
 
 This script is a great starting point for anyone looking to build a chatbot with concurrent task execution and streaming responses using Chainlit and OpenAI. 
 
-
-![Rendering](./concurrent.gif)
 Title: Concurrent Streaming with OpenAI
 Tags: [open-ai, concurrent-streaming]
